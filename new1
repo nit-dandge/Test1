@@ -1,0 +1,145 @@
+	Ques	Ans
+1	Exploratory testing to your agile team	Test design and test execution happen at the same time but are guided by a documented test charter that includes actors, test conditions, test data, etc. Test results are also documented and will guide the next test. 
+2	Independent testing on agile projects is FALSE?	Independent testers will find more defects than developers regardless of test level. 
+3	Independent testing on agile projects 	"Losing test independence for organizations introducing agile. 
+Can be introduced at the end of a sprint. 
+The independent test team can be part of another team"
+4	Agile Manifesto has 4 statements of values	"1) Customer collaboration over: i) Contract negotiation
+2) Responding to change over :  ii) Following a plan
+3) Individuals and interactions over :  iii) Processes and tools
+4) Working software over : iv) Comprehensive documentation"
+5	Statements about Test Driven Development (TDD) is FALSE?	The result of TDD are test classes used by the developer to develop test cases 
+6	Advantage of having the whole team responsible for quality?	Role barriers are eliminated project success based on their unique skills and perspectives. 
+7	An iteration planning, the team is sharing their thoughts about a user story	The tester advises that the user story needs acceptance criteria to be testable. 
+8	Match the following agile software development approaches 	"1) Extreme Programming: I. Embraces 5 values to guide development: 
+Communication, Simplicity, Feedback, Courage, and Respect
+2) Scrum : II. Divides the project into short iterations called sprints.
+3) Kanban : III. Optimizes the ‘flow’ of work in a value-added chain."
+9	Tester participating in a retrospective meeting?	Should provide feedback and input on all activities conducted by the team during the sprint. 
+10	Examples of testable acceptance criteria for test related activities?	"System testing: At least 80% of functional regression tests are automated. 
+Security testing: A threat risk analysis scan is completed with no faults identified. "
+11	Burndown	Amount of work left to be done, versus the time allocated for the iteration 
+12	Burndown charts 	Team’s progress against estimates
+13	Explanation of a ‘User story’?	An artifact written collaboratively by developers, testers, and business representatives to capture requirements. 
+14	Why automation is essential in agile.	"i. Teams maintain or increase their velocity
+ii. To ensure code changes do not break the software build"
+15	Which of the following is NOT a principle of Continuous Integration(CI)?	CI ensures testing of builds is done manually, as this generates more reliable results than automated scripts. 
+16	Principle of CI (Continuous Integration)	Helps to build changed software regularly, including testing and deploying, in an automated way. 
+17	Activities tester do during Release planning?	Support the clarification of the user stories and ensure that they are testable 
+18	When to stop testing (release criteria) in an agile project?	The achieved test coverage is considered enough. The coverage limit is justified by the complexity of  functionality, its implementation, and the risks involved. 
+19	The business advises during iteration 5 planning that they require changes to the system delivered in iteration 3.	Review and update all manual and automated tests impacted by this change to meet the new acceptance criteria. 
+20	‘Test Pyramid’ 	The number of automated "Unit" tests is higher than the number of automated tests for higher test levels. 
+21	"Test Pyramid’ 	Large number of tests at the lower levels (bottom of the pyramid) and, as development moves to the upper levels, the number of tests decreases (top of the pyramid).
+22	"Test Pyramid’ 	Early QA and testing
+23	“As a Bank Teller (BT), like to be able to view all of my customer’s bank transactions on the screen, so I can answer his/her questions”.	"i. Login as a bank teller, enter a customer account ID, get his transactions history 
+ii. Login as BT, request ID by using name abbreviations, and get his trans history.
+iii. Login as BT, Enter IBAN, and get his transaction history."
+24	Application Lifecycle Management (ALM) tool on an agile 	 Visibility into the current state, especially with distributed teams 
+25	FALSE with respect to exploratory test	Eliminates the need for testers to prepare test ideas prior to test execution. 
+26	Who owns sprint commitments	The team owns them collectively 
+27	The CEO asks a team member to do some work outside the goals 	Inform the Product Owner so he can work with the CEO 
+28	When should a Retrospective held	At the end of each Sprint, After the sprint review meeting 
+29	Scrum team uses “information radiators” task board/sprint burn-down chart, for?	The team, so they can take responsibility for their own work habits 
+30	Is Test Driven Development (TDD) part of Scrum?	"No - Scrum is only a feedback framework. Not specify particular technical practices.
+Creates reusable tests for regression testing"
+31	Backlog grooming occur	Every Sprint
+32	Development Team do in first Sprint?	Deliver an increment of potentially shippable functionality.
+33	Not an effective way between the scrum team and external dept or other teams	Act as a go-between for them 
+34	Tool selection and configuration?	The teams, who would have to coordinate with each other 
+35	When is the sprint backlog created	During the sprint planning meeting 
+36	Who estimates the effort to complete a product backlog item?	The scrum development team, after clarifying the requirement 
+37	Pair programming	Two people share one workstation, typically taking turns typing while the other pays attention and helps 
+38	Pair	Two team members (e.g., a tester and a developer, two testers, or a tester and a product owner) sit together at one workstation to perform a testing or other sprint task.
+39	Good size for a sprint task	One person per day or less, so other team members can easily detect when a task is stuck 
+40	Code refactoring	Modification of the code without changing its functionality to improve the performance 
+41	Should the product backlog contain tasks	No
+42	Reason to demonstrate products frequently	To understand the user's real need
+43	When is Sprint execution completed	When the timebox expires 
+44	How is Product Backlog Arranged?	Most important items at the top, least important items at the bottom 
+45	The Product Backlog is ordered by	Whatever is most appropriate by the Product Owner
+46	Recommended size of a scrum team	7 plus or minus 2 / 3 to 9
+47	Scrum have rules, or just guidelines	Scrum has a few simple rules 
+48	Sprint review meeting	Live demonstration of a potentially shippable product increment 
+49	Type of process control is Scrum based	Empirical
+50	Event has a timebox	The event can take no more than a maximum amount of time.
+51	When does the next Sprint begin	Immediately after the conclusion of the previous Sprint.
+52	Multiple teams working together, each team maintain a separate Product Backlog.	FALSE
+53	Who know the progress of business objective or a release.	The Product Owner.
+54	Scrum	A framework within  complex products are developed.
+55	Many Dev Teams on a single product, what is definition of "done?"	Definition of "done" makes combined work potentially releasable.
+56	When Product backlog be re-prioritized?	Always, The product owner should re-prioritize the backlog constantly 
+57	During Sprint Execution, when are new tasks added?	As soon as possible after they are identified, unless they reflect a scope change in the sprint goals 
+58	What happens to the Product Backlog as dev continues from Sprint to Sprint	It gets larger as the Sprint Review demo requests for more or different features.
+59	Velocity in Agile	How much work Agile can complete in a sprint and how much time will require to complete a project.
+60	User Stories	Defines the actual business requirement, Generally created by Business owner.
+61	Task	Devt team create tasks
+62	Epic	A group of related user stories is called an Epic.
+63	Zero sprint in Agile	Setting dev environment, preparing backlog etc 
+64	Zero sprint in Agile	Identify the scope of the project (i.e., the product backlog),Create an initial system architecturePlan, acquire, and install needed tools, Create an initial test strategy for all test levels
+65	What is Spike	To provide the solution of Technical issues “Spikes” are created. 
+66	What is Agile Manifesto	Iterative and people-centric approach to software dev. It has basically 4 key values and 12 principals.
+67	Timeboxing	Only tasks, requirements/features that team expects to finish within the sprint are part of the sprint backlog
+68	Timeboxing	If the development team cannot finish a task within a sprint, the associated product features are removed from the sprint and the task is moved back into the product backlog.
+69	Timeboxing	Timeboxing applies not only to tasks, but in other situations (e.g., enforcing meeting start and end times).
+70	Scrum Master	Not the team lead, but a coach.
+71	Scrum	Not dictate specific software development techniques(e.g., test first programming).
+72	Kanban	management approach, Iterations or sprints are optional in Kanban.
+73	Kanban utilizes three instruments	Kanban Board (Each column shows a station, e.g. development or testing)
+74		Work-in-Progress Limit (The amount of parallel active tasks is strictly limited)
+75		Lead Time(average)
+76	Collaborative User Story Creation	Poor specifications are often a major reason for project failure
+77		INVEST technique Independent (Negotiable, Valuable, Estimable, Small, Testable)
+78	According to the 3C concept, a user story is the conjunction of three elements:	Card:  describing a user story. It identifies the requirement, its criticality, expected development and test duration, and the acceptance criteria for that story. The description has to be accurate, as it will be used in the product backlog.
+79	According to the 3C concept, a user story is the conjunction of three elements:	Conversation: The conversation explains how the software will be used. Testers, having a different point of view than developers and business representatives, bring valuable input to the exchange of thoughts, opinions.
+80	According to the 3C concept, a user story is the conjunction of three elements:	Confirmation: The acceptance criteria to confirm that the story is done. Both positive and negative tests should be used to cover the criteria.
+81	CI (Continuous Integration)	merging all changes regularly, at least once a day.
+82	CI (Continuous Integration)	Configuration management, compilation, software build, deployment, and testing are wrapped into a single, automated, repeatable process.
+83	CI process consists of the following automated activities	"Static code analysis: executing static code analysis and reporting results
+Compile: compiling and linking the code, generating the executable files
+Unit test: executing the unit tests, checking code coverage and reporting results
+Deploy: installing the build into a test environment
+Integration test: executing the integration tests and reporting results
+Report (dashboard): posting the status to a publicly visible location or e-mailing status to the team"
+84	Release Planning	"Release planning looks ahead to the release of a product, often a few months ahead of the start of a project.
+Prioritize the user stories for the release"
+85	Testers are involved in release planning  add value	"Testable user stories, acceptance criteria, risk analyses, Estimating, test levels
+Planning the testing for the release"
+86	Iteration Planning	After release planning is done, iteration planning for the first iteration starts
+87	Testers are involved in iteration planning add value	"Participating in the detailed risk analysis of user stories
+Testability, acceptance tests, Breaking down stories into tasks (particularly testing tasks)
+Estimating, functional and non-functional, test automation"
+88	Test Levels	Test activities that are logically related, often by the maturity or completeness of the item under test.
+89	Unit testing	Typically done by the developer
+90	Independent Testing	More effective at finding defects.
+91	Regression Risk	As each iteration completes, the product grows. The scope of testing also increases with regression
+92	Effective use of the testing Quadrant?	When communicating test ideas, the tester can refer to the matching test quadrant, so that the rest of the team will better understand the purpose of the test. 
+93	Scrum Poker/ Extimate	Fibonacci sequence (i.e., 0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, …)
+94	The four quadrants are as follows	Quadrant Q1 is unit level, technology facing, and supports the developers. Unit tests, automated
+		"Quadrant Q2 is system level, business facing, and confirms product behavior. 
+Functional tests, examples, story tests, user experience prototypes, and simulations. Manual or automated."
+		"Quadrant Q3 is system or user acceptance level, business facing, realistic scenarios and data. 
+Exploratory, scenarios, process flows, usability, user acceptance, alpha-beta. Manual and are user-oriented."
+		"Quadrant Q4 is system or operational acceptance level, technology facing, Automated
+Performance, load, stress, and scalability tests, security tests, maintainability, memory management, compatibility and interoperability, data migration, infrastructure, and recovery testing. "
+95	Which of the following activities would a tester do during release planning?	"A. Produce a list of acceptance tests for user stories (Iteration)
+B. Help break down user stories into smaller and more detailed tasks.(Iteration)
+C. Estimate testing tasks generated by new features planned for this iteration.(Iteration)
+D. Support the clarification of the user stories and ensure that they are testable (Release)"
+96	In agile projects there is more need for testers to understand and develop test automation scripts than in traditional projects. Of the following, which are the TWO reasons why this is a necessary skill on agile projects?	"ii.The tests should generate feedback on product quality as early as possible. So all acceptance tests should be executed in each iteration, ideally as modifications are made. In practice that can only be realized by automated tests.
+iii. Test-First and Continuous Integration Practice require that the regression test suite is executed whenever changed code is checked-in. In practice that can only be realized by automated tests."
+97	"“As a bank teller, I can easily navigate through the system menu and links, and find the information I am looking for “For all users, the system must display all queries in less than 2 seconds, 90% of the time” And the associated test cases: 
+Which TWO test quadrants would the above test cases be part of? "	"Q3 system or user acceptance level, business facing & 
+Q4 system or operation acceptance level, technology facing -------
+Q3 – Correct – Usability testing is part of the 3rd quadrant.
+Q4 – Correct – Performance testing is part of the 4th quadrant."
+98	At the beginning of the 5th iteration of a project, a new requirement was introduced to support a new type of browser. The tester realizes that the existing test automation framework and scripts will not support the new type of browser. What is the best course of action for the tester on this team to take?	The tester will notify the team of the issue. A risk analysis is done, and the team decides that regression testing must be performed on the new type of browser in addition to the other supported browsers. The tester will update the sprint plan by adding tasks to modify the framework and scripts to support the new type of browser.
+99	"Given the following results from a product risk analysis that occurred at the beginning of an iteration:
+User story 1(Performance):likelihood: high,impact:high"	"Move onto planning poker session to estimate effort for user stories, and determine what can be done in the current iteration, and what needs to be added to backlog.
+-The team should collaborate on effective ways to mitigate the high likelihood, high impact risks."
+100	An agile team is assigned to a project to update an existing medical device to newer technologies.Since the last release of the existing medical device, a new version of the medical device standard has been released. User access to the device is changing and will be documented in user stories. 	"i. Updated version of standards document for medical system.
+ii. Existing defects or typical defect areas in existing system.
+v. Defects logged during other similar conversion projects for medical devices."
+101	"Given the following user story: “An online application charges customers to ship purchased items, based on the following criteria:
+• Standard shipping costs for under 6 items
+• Shipping is $5 for 6-10 items.
+• Shipping is free for more than 10 items."	Boundary Value Analysis: Test the following inputs – 0,5,6,10,11,max
